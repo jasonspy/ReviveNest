@@ -5391,7 +5391,7 @@ Buy Now Btn
     position: fixed;
     transform: translateY(-50%);
     border-radius: 30px;
-    display: inline-block;
+    display: none;
     color: #ffffff !important;
     background-color: #82b440;
     padding: 3.5px 10px;

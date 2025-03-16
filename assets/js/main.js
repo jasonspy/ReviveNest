@@ -349,8 +349,6 @@ jQuery(function($) {
         });
     });
 
-    // Buy Now Btn
-    $('body').append("<a href='https://1.envato.market/D2xBn' class='buy-now-btn' target='_blank'>Buy Now</a>");
 
 }(jQuery));
 
